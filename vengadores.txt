@@ -4,3 +4,11 @@ Los vengadores que muerieron por thanos son:
 -->Doctor Strange
 -->Black Panther
 -->Winter Soldier
+
+
+Los vengadores que sobrevivieron a thanos son:
+
+-->Iron Man
+-->Capitan America
+-->Hulk
+-->Thor
