@@ -9,3 +9,5 @@ Estoy apunto de fundar una startup con mis socios en el sector salud.
 Curso1: Desarrollo web online.
 Curso2: Estrategias para aprender online.
 Curso3: Introducciona  als startups.
+Curso4: Git y gitub.
+Curso5: Prework -Escuela de Javascript.
