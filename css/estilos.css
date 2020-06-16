@@ -21,7 +21,6 @@ body{
 .post p{
     text-align: left;
 }
-
 .cabecera{
     background-color: #e47265;
     color: white;
@@ -34,13 +33,12 @@ body{
 .cabecera h1{
     display: inline-block;
     font-weight: bold;
-    
-
 }
 
 .tagline{
     margin: 0 20px;
     font-weight: 0.8em;
+    font-size: 20px;
 }
 
 .post p{
