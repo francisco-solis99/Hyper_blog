@@ -3,6 +3,7 @@ body{
     font-family: 'Proza Libre';
     color: #333;
     background-color: black;
+    box-sizing: border-box;
 }
 
 .container{
@@ -59,10 +60,16 @@ body{
     color: wheat;
     background-color: #1b2127;
     width: 1000px;
+    padding: 1em;
     margin: 0 auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.footer_container{
+    margin: 0 auto;
+    padding: 1em;
 }
 
 .footer a{
