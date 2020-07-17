@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family: 'Proza Libre';
     color: #333;
-    background-color: black;
+    background-color: #1B2127;
     box-sizing: border-box;
 }
 
@@ -10,7 +10,7 @@ body{
     margin: 0 auto;
     width: 1000px;
     padding: 1em;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(243, 234, 234);
 }
 
 .post{
@@ -58,7 +58,7 @@ body{
 
 .footer{
     color: wheat;
-    background-color: #1b2127;
+    background-color: #1f3146;
     width: 1000px;
     padding: 1em;
     margin: 0 auto;
