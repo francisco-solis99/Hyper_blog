@@ -14,6 +14,8 @@ Curso5: Prework -Escuela de Javascript.
 
 Feature 1
 
+Feature 2
+
 Master 1
 
 Master 2
