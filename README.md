@@ -8,5 +8,6 @@ Mediante este curso podras entender el sistema de control de versiones por excel
 - El flujo de trabajo profesional de git
 - Viajar en el tiempo en tu proyecto
 - Una gran comunidad que esta dispuesta a aportar siempre.
+- Incluye ejemplos de todos los comandos de git
 
 *Por Francisco Javier Solis Martienez con* 💛
