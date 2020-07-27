@@ -56,6 +56,14 @@ body{
     font-size: 20px;
 }
 
+.image_Cont{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 .footer{
     color: wheat;
     background-color: #1f3146;
